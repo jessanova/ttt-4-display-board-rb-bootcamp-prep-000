@@ -8,3 +8,4 @@ def display_board(x=[" "," "," "," "," "," "," "," "," "])
   puts "-----------"
   puts " x[6] | x[7] |  x[8] "
 end
+display_board
